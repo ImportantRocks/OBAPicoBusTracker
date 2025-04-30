@@ -7,9 +7,6 @@ import ntptime
 import urequests
 import ujson
 import gc
-import machine
-import socket
-import ssl
 
 #This is best working version from 4/23/25
 
