@@ -18,4 +18,4 @@ most stops through 3rd ave) will create a JSON file that is too large for the Pi
 
 - There needs to be better handling of internet connection issues (each loop needs to check/break on the state of the internet connection
 
-There are further set up instruction in the comments of the script :)
+There are further set up instructions in the comments of the script :)
