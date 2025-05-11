@@ -12,7 +12,8 @@ Make sure to set up a file called secrets.py that is saved to the Pico W that ha
 
 There are a few known issues -
 - The biggest issue at the moment is memory allocation from large JSON get requests. Bus stops with many lines running at once (like
-most stops through 3rd ave) will create a JSON file that is too large for the Pico to handle. :( 
+most stops through 3rd ave) will create a JSON file that is too large for the Pico to handle. :(
+(I think this issue would be resolved by using a Pi Pico 2 W, but I don't have one to test that out yet)
 
 - There needs to be better handling of OS errors in general 
 
